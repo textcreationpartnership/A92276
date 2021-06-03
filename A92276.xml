@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons humbly offered to this honourable House why a bill pretended to give further powers to the corporation for setting the poor of the city of London and liberties thereof to work should not pass into a law</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92276</idno><idno type="EEBO-CITATION">36273480</idno>
+  <idno type="VID">150208</idno>
+  <idno type="EEBO-PROQUEST">2248549254</idno>
+  
+            <idno type="STC">Wing R561V</idno>
+            <idno type="STC">ESTC R42394</idno>
+            <idno type="OCLC">36273480</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92276)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150208)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2236:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons humbly offered to this honourable House why a bill pretended to give further powers to the corporation for setting the poor of the city of London and liberties thereof to work should not pass into a law</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1692]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing (2nd ed.).</note>
+                  <note>Endorsed: Reasons for making the ward of Farringdon Without in London a corporation to imploy their poor and erect workhouses ...</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Poor --  Employment --  England --  London --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:150208:1"/>
+            <head>REASONS <hi>Humbly Offered to this Honourable House, why a Bill pre<g ref="char:EOLhyphen"/>tended to give further Powers to the Corporation for set<g ref="char:EOLhyphen"/>ting the Poor of the City of</hi> London <hi>and Liberties thereof to Work, should not pass into a Law.</hi>
+            </head>
+            <p>IT authorizes the President, Governours, and Assistants, or any authorized by them, to ap<g ref="char:EOLhyphen"/>prehend all Idle Persons and Vagrants, asking Alms in the said City and Liberties, to send them to their last Abode; or if they conceal'd the same, then to the House of Correction.</p>
+            <p>This is a strange Power to be lodg'd in such Persons as now do, or hereafter may compose this Corporation.</p>
+            <p>'Tis larger than either the Aldermen or Justices of the Peace are intrusted with by any Law, and 'tis in effect making a new Magistracy; and 'tis making them Masters of the Liberty of the People, without Proof or Conviction of any Crime.</p>
+            <p>It impowers the President, <hi>&amp;c.</hi> on complaint (of too small an Allowance) made by any poor Person, to summons the Church-Wardens, Overseers, and Collectors to appear before them, and to administer Oaths, and on Examination to order such Weekly Allowance to the Person complaining, as the President, <hi>&amp;c.</hi> shall think fit, and the Church-Wardens, Overseers, and Collectors are to pay the same.</p>
+            <p>It is humbly conceived, That 'tis hard and unreasonable, that these Men, who are Strangers to the Poor of a Parish, and to the means they have of sustaining their Poor, on complaint of those who are always craving and never satisfied, shall have power to augment their Allowance, and to order the Officers of the Parish to pay it, who certainly are the best Judges of the Necessities of their Poor, and their own Abilities, and ought not to be liable to make good, and pay out of their own Pockets, all that they cannot legally raise out of their Parish, especially when the Persons who are to judge in these Matters are to administer Oaths; and many of those thus impow<g ref="char:EOLhyphen"/>ered are Dissenters, and divers of them Quakers.</p>
+            <p>The next Clause gives the President, <hi>&amp;c.</hi> Power to call the Church-Wardens, Overseers, and Collectors to Account for all Moneys receiv'd and paid by them, and to allow, or disallow their Accounts, as they shall see fit.</p>
+            <p>'Tis humbly conceiv'd, that no Person of Credit or Value will undertake the Office of Church-warden Overseer, or Collector, if this Bill passes into a Law: For, besides the Oaths they are already subject to, and the Accompts they must by Law undergo; if they are to be travelled into a new or other Examination at the Pleasure or Prejudice of the Corporation, no Man of Estate or Integrity will undergo those Offices, which at present are thought to be burthensome by all honest and sufficient Men; and nothing but the pub<g ref="char:EOLhyphen"/>lick Good can engage those that are fit, to undertake this Trust: Therefore by no means these Men ought to be discouraged.</p>
+            <p>'Tis humbly also conceiv'd, that should this Bill pass, Charity will be greatly obstructed: For thereby the Corporation are at Liberty to appoint Persons to ask Alms at every Church Door, whereby great Disturbance will happen, and the People well disposed will be uncertain and diffident to whom to give their Alms, which may in all Probability greatly discourage those well-dispos'd Persons, not knowing or believing Strangers can or will dispose their Charity to proper Objects.</p>
+            <p>Amongst other Exorbitant Powers, the Prosecutors of this Bill aim at, 'tis contriv'd that they shall have Power to raise on every Man yearly as much as he or she now pays to the Poor, which amounts to at least 10000 <hi>l.</hi> a Year, too great a Sum to be trusted to be raised or receiv'd by these Men, especially because they will not take cure of any Poor but those that are above the Age of Seven Years, and under Fifty Years, and of Health of Bo<g ref="char:EOLhyphen"/>dy, and require 12 <hi>d. per</hi> Week to be paid by the Churchwardens for each of them, which Persons are little burthen<g ref="char:EOLhyphen"/>some to their respective Parishes. And after this great Sum raised, the Parishes are left burthen'd with Infants, <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed, and sick Persons: So that this Corporation seems calculated for the Benefit of the Corporation and their A<g ref="char:EOLhyphen"/>gents only.</p>
+            <p>But above all, it seems strange to considering Men, That so great a Power should be lodged in Persons who may purchase the Privilege of being of this Corporation by a small Sum of Money, (tho' they are <hi>Papists, Dissenters, Quakers,</hi> or of any other Persuasion; nay, tho' they have no Pretension to Religion of any kind) whereby they may have so great an Influence on Rich and Poor.</p>
+            <p>
+               <hi>'Tis therefore humbly hoped, this Bill attended with so many Inconveniencies, and from whence so little Good can be expected, shall not pass into a Law. But if any part of this Bill shall be approved, 'tis humbly hoped that more Corporations shall be erected, and particularly the Ward of</hi> Farringdon without <hi>(being a Sixth Part of the City of</hi> London <hi>and Liberties thereof) shall have a distinct Corporation in their District, with such reasonable Powers as this Honourable House shall think fit; it being impossible for the Persons now incorporated to discharge the Trust they grasp at. And by the Act of</hi> 13 <hi>and</hi> 14 <hi>of</hi> Car. II. <hi>It's Enacted, That there be and shall be one or more Corporati<g ref="char:EOLhyphen"/>on or Corporations, Work-house, or Work-houses within the Cities of</hi> London <hi>and</hi> Westminster: <hi>And that the Lord Mayor of the City of</hi> London <hi>for the time being, be President of the Corporation or Corporations, Work<g ref="char:EOLhyphen"/>house or Work-houses, within the said City. And if the said Ward of</hi> Farringdon without <hi>be thought fit to be made a Corporation, for the good Government thereof, and benefit of their Poor, that the Alderman of the said Ward and his two Deputies, and the Common-Council Men of the said Ward, consisting of Seventeen in Number, may be Men<g ref="char:EOLhyphen"/>bers of the same Corporation: And otherwise as this Honourable House in their Wisdom shall think fit.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="half_title">
+            <pb facs="tcp:150208:2"/>
+            <p>REASONS FOR Making the Ward of <hi>Farringdon with<g ref="char:EOLhyphen"/>out</hi> in <hi>London</hi> a Corporation to im<g ref="char:EOLhyphen"/>ploy their Poor, and erect Work<g ref="char:EOLhyphen"/>houses; and against the General Bill now depending in the Honou<g ref="char:EOLhyphen"/>rable House of Commons.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
